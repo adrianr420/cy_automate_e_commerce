@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://automationpractice.com/index.php",
+    "ignoreTestFiles": [ "**//examples/*", "**//firstTest.spec.js", "**//Test.spec.js" ],
+    "viewportHeight": 1080,
+    "viewportWidth": 1920
+} 
