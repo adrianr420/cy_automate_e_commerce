@@ -12,6 +12,7 @@ Automate testing of e-commerce shop - practice
 
 ## General info
 Cypress + JS UI test application - Test provided by Yurii Voina
+
 https://docs.google.com/document/d/1UBBPpZq0OQ2PoNdTA_9VqqhtH-NU2f5xukpJeuB2njw/edit#
 
 ## Technologies / Software
@@ -62,7 +63,9 @@ Project is: _in progress_
 
 ## Inspiration
 Artem Bondar - https://www.udemy.com/user/artem-bondar/
+
 Bushra Alam - https://dev.to/bushraalam 
+
 Bits and pieces from well known sites
 
 ## Contact
